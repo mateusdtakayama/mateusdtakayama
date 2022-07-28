@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Mateus</h1>
 <h3 align="center">A Software Engineering Student from Brazil</h3>
 
-<h3 align="center">- 🔴 I’m currently learning **C, Phyton, HTML5, CSS3 & JavaScript**</h3>
+<h3 align="center">- 🔴 I’m currently learning C, Phyton, HTML5, CSS3 & JavaScript</h3>
 <p align="center">
-<h3 align="center">- 🔴 How to reach me **mateus25delai@gmail.com**</h3>
+<h3 align="center">- 🔴 How to reach me mateus25delai@gmail.com</h3>
 <p align="center">
 
 
