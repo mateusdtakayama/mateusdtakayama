@@ -25,7 +25,7 @@
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" /></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true style="vertical-align: top;" /></td>
   </tr>
 </table>
 
