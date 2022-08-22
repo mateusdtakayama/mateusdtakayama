@@ -20,12 +20,11 @@
 
 
 <h3 align="center">Github Stats:</h3>
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" style="vertical-align: top;" /></td>
-  </tr>
-</table>
+
+<p align="center">
+<a href="https://github.com/mateusdtakayama">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdtakayama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusdtakayama&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
