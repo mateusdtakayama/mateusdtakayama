@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mateus</h1>
 
 <p align="center":
-  <img width="470" src="src/assets/img.png">
+  <img src="src/assets/img.png">
  </p>
 <h3 align="center">A Software Engineering Student from Brazil</h3>
 
