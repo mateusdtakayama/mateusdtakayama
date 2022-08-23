@@ -1,4 +1,8 @@
 <h1 align="center">Hello, I'm Mateus</h1>
+
+<p align="center":
+  <img width="479" src="src/img.png">
+ </p>
 <h3 align="center">A Software Engineering Student from Brazil</h3>
 
 <h3 align="center">- 🔴 I’m currently learning C, Phyton, HTML5, CSS3 & JavaScript</h3>
