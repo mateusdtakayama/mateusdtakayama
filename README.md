@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Mateus</h1>
+<h1 align="center">Hello, I'm Delas</h1>
 
 <h3 align="center">A Software Engineering Student from Brazil</h3>
 
@@ -25,9 +25,9 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" ></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusdtakayama&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" style="vertical-align: top;" /></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusdtakayama&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" style="vertical-align: top;" ></td>
   </tr>
 </table>
 
