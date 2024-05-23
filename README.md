@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/mateusdtakayama/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Mateus Delai" /></a>
-  
+
 </div>
 <br>
 
-<br>
+<br> -->
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
