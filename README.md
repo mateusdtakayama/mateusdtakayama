@@ -28,9 +28,9 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects     |                 Deployed Link                  |                         Repository                         | Tech Stack & Tools                                              |
-| :----------- | :--------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------- |
-| Azure Resume | [view](https://mateusdtakayama.azureedge.net/) | [view](https://github.com/mateusdtakayama/curriculo-azure) | `C#` `GitHub Actions` `Azure Cloud` `HTML5` `CSS3` `Javascript` |
+| Projects     |                 Deployed Link                  |                         Repository                         | Tech Stack & Tools                                                                                                                        |
+| :----------- | :--------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| Azure Resume | [view](https://mateusdtakayama.azureedge.net/) | [view](https://github.com/mateusdtakayama/curriculo-azure) | `C#` `GitHub Actions` `Azure Cloud` `HTML5` `CSS3` `Javascript` `Azure Functions` `Azure CosmosDB` `Azure CDN` `Azure FileStorage` `CORS` |
 
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
