@@ -4,16 +4,6 @@
 </div>
 <br>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<div>
-
-👋 Hi! I'm Mateus Delai Takayama, a full-stack developer from Brazil.
-
-</div>
-
 <br>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
@@ -29,8 +19,6 @@
 | Hosting              | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                    |
 | APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | DevOps               | <img src="https://img.shields.io/badge/linuxmint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" /> <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" /> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />                                                                                                                                                                                                                                                                                                             |
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <br>
 
@@ -63,8 +51,8 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Mateus Delai Takayama github stats](https://github-readme-stats.vercel.app/api?username=mateusdtakayama&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![mateus Delai GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&hide_progress=true&theme=tokyonight) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Mateus Delai Takayama github stats](https://github-readme-stats.vercel.app/api?username=mateusdtakayama&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![mateus Delai GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&theme=tokyonight&layout=donut) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <hr>
 
@@ -73,5 +61,3 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/mateusdtakayama/mateusdtakayama/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
