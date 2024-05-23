@@ -1,33 +1,77 @@
-<h1 align="center">Hello, I'm Mateus</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateusdtakayama/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Mateus Delai" /></a>
+  
+</div>
+<br>
 
-<h3 align="center">A Software Engineering Student from Brazil</h3>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h3 align="center">- 🔴 I’m currently learning C, Phyton, HTML5, CSS3, JavaScript & Vue.</h3>
-<p align="center">
-<h3 align="center">- 🔴 How to reach me mateus25delai@gmail.com</h3>
-<p align="center">
+<div>
 
+👋 Hi! I'm Mateus Delai Takayama, a full-stack developer from Brazil.
 
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mateusdtakayama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusdtakayama" height="30" width="40" /></a>
-<a href="https://fb.com/mateusdelaitakayama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mateusdelaitakayama" height="30" width="40" /></a>
-<a href="https://instagram.com/delai_mateus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="delai_mateus" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
+| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Frameworks / Libs    | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Spring-339911?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"/> |
+| Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF7900?style=for-the-badge&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>                                                                                                                                                                                                                   |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />                                                                                                                                                                                                                 |
+| Database             | <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Services & Tools     | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Hosting              | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                    |
+| APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| DevOps               | <img src="https://img.shields.io/badge/linuxmint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" /> <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" /> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />                                                                                                                                                                                                                                                                                                             |
 
-<h3 align="center">Github Stats:</h3>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=mateusdtakayama&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusdtakayama&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" style="vertical-align: top;" /></td>
-  </tr>
-</table>
+<br>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<!-- # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects                 |                                Deployed Link                                 |                                Repository                                 | Tech Stack & Tools                                                                               |
+| :----------------------- | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------- |
+| Designlyfe               |                     [view](https://www.designlyfe.tech/)                     |                                     -                                     | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` |
+| DevtoGitHub              |      [Marketplace](https://github.com/marketplace/actions/devtogithub)       |           [view](https://github.com/Anmol-Baranwal/DevtoGitHub)           | `TypeScript` `GitHub Actions` `Forem API` `Postman`                                              |
+| Audily (Hackathon-24hr)  |                    [view](https://audily-ai.vercel.app/)                     |           [view](https://github.com/Builders-Valley/Audily-AI)            | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman`     |
+| Handle Multiple Issues   | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) |     [view](https://github.com/Anmol-Baranwal/handle-multiple-issues)      | `TypeScript` `GitHub Actions` `GitHub API`                                                       |
+| Flutter Portfolio App    |                                      -                                       |     [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile)      | `Dart` `Flutter` `Dot Navigation Bar`                                                            |
+| WaitSmart                |                  [view](https://wait-smart-chi.vercel.app/)                  |            [view](https://github.com/Anmol-Baranwal/WaitSmart)            | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3`                                     |
+| Coffee Compass           |          [view](https://coffee-project-anmol-baranwal.vercel.app/)           |         [view](https://github.com/Anmol-Baranwal/Coffee-Compass)          | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3`                                      |
+| MongoDB Query Fetcher    |              [view](https://mongodb-query-fetcher.vercel.app/)               | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman`       |
+| Plasmo Chrome Extension  |                                      -                                       |    [view](https://github.com/Anmol-Baranwal/country-chrome-extension)     | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`                           |
+| ToDo List Web App        |                 [view](https://todo-list-k7qu.onrender.com/)                 |        [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp)         | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap`                                        |
+| BabySteps                |                  [view](https://baby-steps-rho.vercel.app/)                  |        [view](https://github.com/Anmol-Baranwal/BabySteps-Project)        | `Next.js` `JavaScript` `Postman` `CSS3`                                                          |
+| Client's Portfolio       |         [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/)         |       [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha)        | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS`                       |
+| Password Power           |        [view](https://password-generator-anmol-baranwal.vercel.app/)         |                                     -                                     | `JavaScript` `CSS3` `HTML5`                                                                      |
+| Conceptual Mini Projects |                                      -                                       |       [view](https://github.com/Anmol-Baranwal/Conceptual-Projects)       | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3`                            |
+| C++ Special Programs     |                                      -                                       |      [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs)       | `C++`                                                                                            | -->
+
+<br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+| ![Mateus Delai Takayama github stats](https://github-readme-stats.vercel.app/api?username=mateusdtakayama&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![mateus Delai GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&hide_progress=true&theme=tokyonight) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/mateusdtakayama/mateusdtakayama/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
