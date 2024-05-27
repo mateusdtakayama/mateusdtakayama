@@ -37,7 +37,7 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Mateus Delai Takayama github stats](https://github-readme-stats.vercel.app/api?username=mateusdtakayama&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![mateus Delai GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&theme=tokyonight&layout=donut&hide=css,html) |
+| ![Mateus Delai Takayama github stats](https://github-readme-stats.vercel.app/api?username=mateusdtakayama&rank_icon=percentile&show_icons=true&theme=tokyonight&border_radius=8) | ![mateus Delai GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdtakayama&theme=tokyonight&hide=css,html) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
