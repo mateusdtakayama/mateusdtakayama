@@ -1,4 +1,4 @@
-# Mateus Delai
+# Hello, I'm Mateus Delai Takayama
 
 ## Applied AI Engineer
 
